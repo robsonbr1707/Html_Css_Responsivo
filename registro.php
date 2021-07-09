@@ -53,6 +53,7 @@
             <li><a href="#">Página 6</a></li>
             <li><a href="#">Página 7</a></li>
         </ul>
+        <hr>
     </nav>
 </header>
 
